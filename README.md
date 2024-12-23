@@ -2,7 +2,7 @@
 Login and Registration Form
 
 # Description
-This is a simple, responsive login and registration form with a toggle feature between login and registration. It uses HTML and CSS for its implementation.
+This is a simple, responsive login and registration form with a toggle feature between login and registration. It uses HTML, CSS and JAVASCRIPT for its implementation.
 
 ## Features
 - Toggle between Login and Registration forms.
@@ -13,3 +13,4 @@ This is a simple, responsive login and registration form with a toggle feature b
 ## Technologies Used
 - HTML5
 - CSS
+- JAVASCRIPT
